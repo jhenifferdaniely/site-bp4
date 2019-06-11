@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jhenifferdaniely/site-bp4/issues"
   },
-  "homepage": "https://github.com/jhenifferdaniely/site-bp4#readme"
+  "homepage": "https://github.com/jhenifferdaniely/site-bp4#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
 }
