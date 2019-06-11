@@ -1,0 +1,19 @@
+{
+  "name": "site-bp4",
+  "version": "1.0.0",
+  "description": "Site criado pelo curso ministrado por Ricardo Sanches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhenifferdaniely/site-bp4.git"
+  },
+  "author": "jheniffer daniely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhenifferdaniely/site-bp4/issues"
+  },
+  "homepage": "https://github.com/jhenifferdaniely/site-bp4#readme"
+}
